@@ -10,6 +10,12 @@ Churn prediction is a crucial task for businesses, especially in the telecom ind
 
 - **Power BI Visualization**: Power BI was employed to create interactive and insightful data visualizations. These visualizations enabled us to explore the data, identify trends, and communicate the results effectively.
 
+## Power BI Dashboard
+
+To further enhance the visualization and exploration of our Telco Churn Analysis results, we have created an interactive Power BI dashboard. You can access and interact with the dashboard by opening the provided Power BI file:
+
+- **Telco_Churn_Dashboard.pbix**: This Power BI file contains a comprehensive dashboard with various visualizations and insights derived from our analysis.
+
 ## Skills Utilized
 
 Our project involved a range of skills, including:
